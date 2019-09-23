@@ -1,0 +1,2 @@
+include ':app', ':pay', ':share'
+rootProject.name='three'
